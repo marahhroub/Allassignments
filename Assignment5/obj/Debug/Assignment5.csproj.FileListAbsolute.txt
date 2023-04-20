@@ -1,0 +1,11 @@
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.Form1.resources
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\mode1\source\repos\AllAssignments\Assignment5\obj\Debug\Assignment5.pdb
